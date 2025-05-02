@@ -1,5 +1,5 @@
 # Ex. No.  - SIMULATION OF PRE PROCESSING IN ADDITIVE MANUFACTURING
-### DATE: 
+### DATE: 02/05/2025
 ## AIM:
 ### To simulate the Pre Processing for 3D printing.
 
@@ -44,9 +44,10 @@
 ![123_3](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ebb3a944-eeb0-45e8-9841-d58997840c54)
 
 ## Output:
+![Screenshot 2025-05-02 110652](https://github.com/user-attachments/assets/a5aa6b62-8c67-4430-a7bb-9ef65d8fd3a5)
 
-### Name:
-### Register Number:
+### Name: RAMNITHISH.R
+### Register Number: 212224230219
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
